@@ -1,36 +1,40 @@
-# Pokédex Angular
+🔗 **Enlace oficial para registrarse en Vercel**:  
+[https://vercel.com/signup](https://vercel.com/signup)
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![codecov](https://codecov.io/gh/keilermora/pokedex-angular/branch/master/graph/badge.svg?token=9E0D28IOFT)](https://codecov.io/gh/keilermora/pokedex-angular)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+---
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
+## 🛠️ Paso a Paso para Crear una Cuenta en Vercel
 
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
+---
 
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
+Paso 1: Ve al sitio de registro
+- Abre tu navegador y entra al sitio:
+  👉 [https://vercel.com/signup](https://vercel.com/signup)
 
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
+Paso 2: Elige el método de registro
 
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
+Tienes tres opciones para registrarte:
+- **Con GitHub** (recomendado)
+- Con **GitLab**
+- Con **Bitbucket**
 
-## Requisitos mínimos
+> 💡 Si ya tienes cuenta en GitHub, haz clic en **"Continue with GitHub"**. Vercel se conecta automáticamente con tus repositorios.
 
-- [Nodejs](https://nodejs.org) con soporte de largo plazo (LTS).
-- Un navegador web
+Paso 3: Autoriza a Vercel
 
-## Ambiente de pruebas
+- Si es la primera vez que conectas GitHub con Vercel, te aparecerá una pantalla de autorización.
+- Haz clic en **"Authorize Vercel"**.
 
-Ejecutar en la raíz del proyecto:
+Paso 4: Completa la configuración inicial
 
-```
-npm start
-```
+- Se te pedirá que configures tu **nombre de usuario**, tu **equipo** y tu **propósito** en Vercel (personal, freelance, empresa, etc.)
+- Puedes poner cualquier nombre y seleccionar opciones como:
+  - Propósito: *Personal Project* o *Freelancing*
+  - Nombre del equipo: *Tu nombre o algo representativo*
 
-## Referencias
+Paso 5: ¡Cuenta creada!
 
-- [Angular](https://angular.io/): One framework.
-- [Angular Folder Structure](https://angular-folder-structure.readthedocs.io/en/latest/): Create a skeleton structure which is flexible for projects big or small.
-- [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
-- [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
-- [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
+- Ya tendrás acceso al dashboard de Vercel donde podrás:
+  - Crear un nuevo proyecto
+  - Importar un repositorio desde GitHub
+  - Ver tus despliegues
