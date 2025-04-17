@@ -13,6 +13,8 @@ Paso 1: Ve al sitio de registro
 
 Paso 2: Elige el método de registro
 
+![image](https://github.com/user-attachments/assets/b9be3e73-a6fb-40e1-b38a-2d6f54804cfe)
+
 Tienes tres opciones para registrarte:
 - **Con GitHub** (recomendado)
 - Con **GitLab**
