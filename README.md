@@ -1,42 +1,5 @@
-🔗 **Enlace oficial para registrarse en Vercel**:  
-[https://vercel.com/signup](https://vercel.com/signup)
-
----
-
-## 🛠️ Paso a Paso para Crear una Cuenta en Vercel
-
----
-
-Paso 1: Ve al sitio de registro
-- Abre tu navegador y entra al sitio:
-  👉 [https://vercel.com/signup](https://vercel.com/signup)
-
-Paso 2: Elige el método de registro
-
-![image](https://github.com/user-attachments/assets/b9be3e73-a6fb-40e1-b38a-2d6f54804cfe)
-
-Tienes tres opciones para registrarte:
-- **Con GitHub** (recomendado)
-- Con **GitLab**
-- Con **Bitbucket**
-
-> 💡 Si ya tienes cuenta en GitHub, haz clic en **"Continue with GitHub"**. Vercel se conecta automáticamente con tus repositorios.
-
-Paso 3: Autoriza a Vercel
-
-- Si es la primera vez que conectas GitHub con Vercel, te aparecerá una pantalla de autorización.
-- Haz clic en **"Authorize Vercel"**.
-
-Paso 4: Completa la configuración inicial
-
-- Se te pedirá que configures tu **nombre de usuario**, tu **equipo** y tu **propósito** en Vercel (personal, freelance, empresa, etc.)
-- Puedes poner cualquier nombre y seleccionar opciones como:
-  - Propósito: *Personal Project* o *Freelancing*
-  - Nombre del equipo: *Tu nombre o algo representativo*
-
-Paso 5: ¡Cuenta creada!
-
-- Ya tendrás acceso al dashboard de Vercel donde podrás:
-  - Crear un nuevo proyecto
-  - Importar un repositorio desde GitHub
-  - Ver tus despliegues
+# PASO A PASO PARA CREAR CUENTA EN VERCEL
+1. Vamos a la pagina de Vercel y presionamos en Sign Up![1](https://i.imgur.com/k6px5Jt.png)
+2. Elegimos la opción "Personal Projects" y después nos pedirá nuestro nombre![2](https://i.imgur.com/7QnbjUu.png)
+3. Elegimos con que queremos continuar (Recomendado continuar con GitHub)![3](https://i.imgur.com/2r2QPov.png)
+4. Una vez ya vinculado la cuenta, nos dará nuestro overview donde podremos subir nuestros repositorios ![enter image description here](https://i.imgur.com/r6lmeyY.png)
